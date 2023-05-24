@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for awong_final_project."""
 
 from .cli import main  # pragma: no cover
 
